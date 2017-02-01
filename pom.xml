@@ -28,7 +28,7 @@
     <id>Mi Id</id>
     <activation>
       <os>
-        <family>linux</family>
+        <family>windows</family>
       </os>
     </activation>
     <build> 
